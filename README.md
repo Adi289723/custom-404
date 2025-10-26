@@ -5,7 +5,9 @@
 
 ## 📋 Project Overview
 
-This repository demonstrates a custom GitHub Pages site with an enhanced 404 error page, created as part of the **IITM Diploma in Tools in Data Science - Week 0 Assignment**.
+This repository demonstrates a custom GitHub Pages site with an enhanced 404 error page, created as part of the **IITM Diploma in Tools in Data Science - Extra Week 0 Assignment**.
+
+[![CI](https://github.com/Adi289723/custom-404/actions/workflows/main.yml/badge.svg)](https://github.com/Adi289723/custom-404/actions/workflows/main.yml)
 
 ## ✨ Features
 
