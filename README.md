@@ -24,9 +24,9 @@ custom-404/
 
 ## 🚀 Live Demo
 
-Visit the site: `https://YOUR-USERNAME.github.io/custom-404/`
+Visit the site: `https://Adi289723.github.io/custom-404/`
 
-Test the 404 page: `https://YOUR-USERNAME.github.io/custom-404/test-404`
+Test the 404 page: `https://Adi289723.github.io/custom-404/test-404`
 
 ## 📧 Contact
 
